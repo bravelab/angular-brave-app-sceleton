@@ -1,10 +1,10 @@
 {
-  "name": "brave-docs",
+  "name": "angular-brave-sceleton-app",
   "authors": [
     "Mariusz Smenżyk <mariusz.smenzyk@sizeof.pl>"
   ],
-  "description": "Docs module for SmartAdmin",
-  "main": "./dist/angular-brave-docs.module.js",
+  "description": "Sceleton Bower package for reusable AngularJS apps",
+  "main": "./dist/angular-brave-sceleton-app.js",
   "keywords": [
     "Docs",
     "SmartAdmin"

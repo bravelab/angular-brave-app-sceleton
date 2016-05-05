@@ -12,8 +12,8 @@ var config = {
     files: [
       'src/**/*.js'
     ],
-    concat: 'angular-brave-docs.js',
-    min: 'angular-brave-docs.min.js'
+    concat: 'angular-brave-sceleton-app.js',
+    min: 'angular-brave-sceleton-app.min.js'
   }
 };
 

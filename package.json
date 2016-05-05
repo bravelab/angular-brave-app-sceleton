@@ -1,6 +1,6 @@
 {
-  "name": "angular-brave-docs",
-  "description": "Generic docs module for SmartAdmin",
+  "name": "angular-brave-sceleton-app",
+  "description": "Sceleton Bower package for reusable AngularJS apps",
   "main": "src/module.js",
   "version": "0.0.0",
   "private": true,
